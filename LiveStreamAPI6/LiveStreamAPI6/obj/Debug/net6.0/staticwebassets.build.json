@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "u9TNNXwJmAHxpmkLmIToIz2fRMzCY+SChB7PUL8Hvxk=",
+  "Source": "LiveStreamAPI6",
+  "BasePath": "_content/LiveStreamAPI6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LiveStreamAPI6\\wwwroot",
+      "Source": "LiveStreamAPI6",
+      "ContentRoot": "E:\\DOTNETCORECODE\\LiveStreamAPI6\\LiveStreamAPI6\\wwwroot\\",
+      "BasePath": "_content/LiveStreamAPI6",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
